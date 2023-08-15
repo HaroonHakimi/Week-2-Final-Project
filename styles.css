@@ -190,6 +190,11 @@ nav
     cursor: pointer;
 }
 
+.btn__menu--close
+{
+    cursor: pointer;
+}
+
 .menu__backdrop
 {
     position: absolute;
